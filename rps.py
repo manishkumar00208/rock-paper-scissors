@@ -1,4 +1,3 @@
-# import random module
 import random
 
 
@@ -9,7 +8,7 @@ print("Winning Rules of the Rock paper scissor game as follows: \n"
 
 while True:
 	print("Enter choice \n 1. Rock \n 2. paper \n 3. scissor \n")
-	
+	1
 	
 	choice = int(input("User turn: "))
 
